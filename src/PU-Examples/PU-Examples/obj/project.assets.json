@@ -982,23 +982,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Miro\\.nuget\\packages\\": {},
+    "C:\\Users\\Краси\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\PU-testautomation\\src\\PU-Examples\\PU-Examples\\PU-Examples.csproj",
+      "projectUniqueName": "C:\\Users\\Краси\\Documents\\GitHub\\API_C-_Test\\src\\PU-Examples\\PU-Examples\\PU-Examples.csproj",
       "projectName": "PU-Examples",
-      "projectPath": "C:\\repos\\PU-testautomation\\src\\PU-Examples\\PU-Examples\\PU-Examples.csproj",
-      "packagesPath": "C:\\Users\\Miro\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\PU-testautomation\\src\\PU-Examples\\PU-Examples\\obj\\",
+      "projectPath": "C:\\Users\\Краси\\Documents\\GitHub\\API_C-_Test\\src\\PU-Examples\\PU-Examples\\PU-Examples.csproj",
+      "packagesPath": "C:\\Users\\Краси\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Краси\\Documents\\GitHub\\API_C-_Test\\src\\PU-Examples\\PU-Examples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Miro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Краси\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1025,7 +1025,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -1068,7 +1068,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
